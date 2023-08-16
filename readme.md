@@ -1,4 +1,4 @@
-# 1. Nodarbība Git, Github, HTML
+# 1. Nodarbība Git, Github, HTML 
 
 # Mērķis
 - Izmantojot Git un Github, noklonēt repozitoriju un sākt iepazīties ar HTML pamatiem.
